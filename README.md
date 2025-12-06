@@ -103,6 +103,7 @@ Welcome to my GitHub profile! I’m passionate about problem-solving, software d
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📈 GitHub Contribution Graph:
@@ -124,13 +125,13 @@ Welcome to my GitHub profile! I’m passionate about problem-solving, software d
 
 ---
 
-### 🎖️ Holopin Badges:
-<details>
-  <summary><b>Click to view badges</b></summary><br>
+### 🎖️ Holopin Badges
+
+<div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 15px; display: inline-block;">
   <a href="https://holopin.io/@alienx5499">
     <img src="https://holopin.me/subhanrahiman7" alt="Holopin Badges" />
   </a>
-</details>
+</div>
 
 ---
 
