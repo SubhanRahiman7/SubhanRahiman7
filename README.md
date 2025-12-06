@@ -25,32 +25,84 @@ Welcome to my GitHub profile! I’m passionate about problem-solving, software d
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55" height="55" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55" height="55" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="55" height="55" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=swift" width="55" height="55" />
+      <br>Swift
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript" width="55" height="55" />
+      <br>TypeScript
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
+      <br>Node.js
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=azure" width="55" height="55" />
+      <br>Azure
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
       <br>Git
     </td>
   </tr>
-</table>
 
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=idea" width="55" height="55" />
+      <br>IntelliJ IDEA
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📈 GitHub Contribution Graph:
