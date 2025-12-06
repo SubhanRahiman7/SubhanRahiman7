@@ -60,6 +60,18 @@ Welcome to my GitHub profile! I’m passionate about problem-solving, software d
 
 ---
 
+### 🟡 Contributions Pacman
+
+<h6 align="center">Contributions Pacman</h6>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhanrahiman7/subhanrahiman7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhanrahiman7/subhanrahiman7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/subhanrahiman7/subhanrahiman7/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 🎖️ Holopin Badges:
 <details>
   <summary><b>Click to view badges</b></summary><br>
@@ -79,8 +91,5 @@ Welcome to my GitHub profile! I’m passionate about problem-solving, software d
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
-
-
 
 ---
