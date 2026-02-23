@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I’m passionate about problem-solving, software d
 
 <div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 15px; display: inline-block;">
   <a href="https://www.holopin.io/@subhanrahiman7">
-    <img src="https://www.holopin.io/@subhanrahiman7#" alt="Holopin Badges" />
+    <img src="https://boards.holopin.io/subhanrahiman7" alt="Holopin Badges" />
   </a>
 </div>
 
